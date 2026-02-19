@@ -1,7 +1,6 @@
 
 import React, { useState, useMemo, useEffect, useCallback } from 'react';
 import { AppSettings, RoundingMode, ProductionRecord } from './types';
-import Sidebar from './components/Sidebar';
 import Dashboard from './components/Dashboard';
 import DataTable from './components/DataTable';
 import Validation from './components/Validation';
